@@ -8,7 +8,7 @@ import LoadingBar from 'react-top-loading-bar'
 
 const App = ()=> {
   const pageSize = 5;
-  const apiKey = process.env.REACT_APP_NEWS_API
+  const apiKey = "122442c9a1cf47a0af3df54c86818f36"
   const [progress, setProgress] = useState(0)
  
     return (
